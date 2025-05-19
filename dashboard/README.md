@@ -1,4 +1,6 @@
-# This directory contains the final interactive dashboard files developed for the "Optimizing Hospital Outcomes: A Healthcare Analytics Case Study" project.
+# Optimizing Hospital Outcomes: A Healthcare Analytics Case Study
+
+This directory contains the final dashboard files developed for the "Optimizing Hospital Outcomes: A Healthcare Analytics Case Study" project.
 
 ## **Dashboard Static View**
 
