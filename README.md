@@ -57,3 +57,4 @@ Faith Specialist Hospital faced rising rates of Discharge Against Medical Advice
 ## **Reflections & Learning**
 Through this project, I strengthened my end-to-end analytics skills—cleaning complex datasets in Excel, structuring relational data in SQL, and translating query outputs into compelling Tableau visualizations. More importantly, I experienced firsthand how data can drive meaningful improvements in healthcare delivery.
 
+*[Interact with the dashboard here](https://public.tableau.com/app/profile/faith.amuda/viz/HospitalDashboard_17443984563060/Dashboard1)*
